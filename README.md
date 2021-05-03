@@ -33,3 +33,4 @@ How to run YACC file in windows:
 9. gcc lex.yy.c y.tab.c
 10. a.exe 
 11. if the file doesn't run with a.exe then write hello.exe
+12. 
